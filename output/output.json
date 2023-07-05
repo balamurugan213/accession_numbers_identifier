@@ -1,0 +1,45 @@
+[
+  {
+    "accessionNumber": "30",
+    "xmlData": [
+      "<ext-link ext-link-type=\"uri\" assigning-authority=\"taxonomy\" xlink:href=\"https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=30\">30</ext-link>",
+      "<ext-link ext-link-type=\"uri\" assigning-authority=\"taxonomy\" xlink:href=\"https://purl.uniprot.org/taxonomy/30\">30</ext-link>",
+      "<ext-link ext-link-type=\"uri\" assigning-authority=\"taxonomy\" xlink:href=\"https://www.ebi.ac.uk/ena/data/view/Taxon:30\">30</ext-link>",
+      "<ext-link ext-link-type=\"uri\" assigning-authority=\"taxonomy\" xlink:href=\"http://purl.bioontology.org/ontology/NCBITAXON/30\">30</ext-link>",
+      "<ext-link ext-link-type=\"uri\" assigning-authority=\"taxonomy\" xlink:href=\"https://bio2rdf.org/taxonomy:30\">30</ext-link>",
+      "<ext-link ext-link-type=\"uri\" assigning-authority=\"taxonomy\" xlink:href=\"https://www.ebi.ac.uk/ols4/ontologies/ncbitaxon/terms?short_form=NCBITaxon_30\">30</ext-link>"
+    ]
+  },
+  {
+    "accessionNumber": "CP110363",
+    "xmlData": [
+      "<ext-link ext-link-type=\"uri\" assigning-authority=\"kegg.pathway\" xlink:href=\"https://www.kegg.jp/entry/CP110363\">CP110363</ext-link>"
+    ]
+  },
+  {
+    "accessionNumber": "30",
+    "xmlData": [
+      "<ext-link ext-link-type=\"uri\" assigning-authority=\"pubmed\" xlink:href=\"https://www.ncbi.nlm.nih.gov/pubmed/30\">30</ext-link>",
+      "<ext-link ext-link-type=\"uri\" assigning-authority=\"pubmed\" xlink:href=\"http://www.hubmed.org/display.cgi?uids=30\">30</ext-link>",
+      "<ext-link ext-link-type=\"uri\" assigning-authority=\"pubmed\" xlink:href=\"http://europepmc.org/abstract/MED/30\">30</ext-link>",
+      "<ext-link ext-link-type=\"uri\" assigning-authority=\"pubmed\" xlink:href=\"http://linkedlifedata.com/resource/pubmed/id/30\">30</ext-link>",
+      "<ext-link ext-link-type=\"uri\" assigning-authority=\"pubmed\" xlink:href=\"https://scholia.toolforge.org/pubmed/30\">30</ext-link>"
+    ]
+  },
+  {
+    "accessionNumber": "PRJNA895949",
+    "xmlData": [
+      "<ext-link ext-link-type=\"uri\" assigning-authority=\"bioproject\" xlink:href=\"http://trace.ddbj.nig.ac.jp/BPSearch/bioproject?acc=PRJNA895949\">PRJNA895949</ext-link>",
+      "<ext-link ext-link-type=\"uri\" assigning-authority=\"bioproject\" xlink:href=\"https://www.ncbi.nlm.nih.gov/bioproject?term=PRJNA895949\">PRJNA895949</ext-link>",
+      "<ext-link ext-link-type=\"uri\" assigning-authority=\"bioproject\" xlink:href=\"https://www.ebi.ac.uk/ena/browser/view/PRJNA895949\">PRJNA895949</ext-link>"
+    ]
+  },
+  {
+    "accessionNumber": "PRJNA898672",
+    "xmlData": [
+      "<ext-link ext-link-type=\"uri\" assigning-authority=\"bioproject\" xlink:href=\"http://trace.ddbj.nig.ac.jp/BPSearch/bioproject?acc=PRJNA898672\">PRJNA898672</ext-link>",
+      "<ext-link ext-link-type=\"uri\" assigning-authority=\"bioproject\" xlink:href=\"https://www.ncbi.nlm.nih.gov/bioproject?term=PRJNA898672\">PRJNA898672</ext-link>",
+      "<ext-link ext-link-type=\"uri\" assigning-authority=\"bioproject\" xlink:href=\"https://www.ebi.ac.uk/ena/browser/view/PRJNA898672\">PRJNA898672</ext-link>"
+    ]
+  }
+]
